@@ -363,5 +363,5 @@ I followed the tutorial online
 * Leticia Ulloa
 * La Chilindrina
 * Anselmo ~ <agprocida@gmail.com> ~ anselmoprocida
-* Clare Jo
+* Clare M. Jo
 * Frodo Baggins
